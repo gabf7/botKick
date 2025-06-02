@@ -1,0 +1,42 @@
+[
+  {
+    "name": "KP_UIDz",
+    "value": "01MHXv7fiuSVHR0pV38FU4mwL28HBzvXIDeV9FsOhZPkOV9ijnDnSPS16UwlKS7r2jKckQ1G1mGZCTJiZyuGVUmlgC1b0soK4wUByVSJGui1ckGVusFijeMNPDJwCmmjg3vUVz7ovOkWHcWahCO9SNk8mydNQSsKgZ0hMyxjKnwMHr8I28RQrJuKfJiFJ1KyfPWJnGqmN",
+    "domain": ".kick.com",
+    "path": "/",
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "KP_UIDz-ssn",
+    "value": "01MHXv7fiuSVHR0pV38FU4mwL28HBzvXIDeV9FsOhZPkOV9ijnDnSPS16UwlKS7r2jKckQ1G1mGZCTJiZyuGVUmlgC1b0soK4wUByVSJGui1ckGVusFijeMNPDJwCmmjg3vUVz7ovOkWHcWahCO9SNk8mydNQSsKgZ0hMyxjKnwMHr8I28RQrJuKfJiFJ1KyfPWJnGqmN",
+    "domain": ".kick.com",
+    "path": "/",
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "XSRF-TOKEN",
+    "value": "eyJpdiI6InRPcXdXRFBLWXY2OHJ0MXpVNFlMSkE9PSIsInZhbHVlIjoiR3AxMzZyUXZyK1NlRERuZW5IN1F2ZlNoUXdFdDVTYmJNL1FLcnk4dFJodmpKRG5Ma3VtUUNNRGdkUXl3YzNsSlExUXlSb0dXUnVmOGRDMG8zL095R1hPMXd1TFpGTVZFNEt3cGM2SEtXRWQxTXVrOE92NjZab2lQN05xeUxnaEgiLCJtYWMiOiI5Yzc2NmJkNjNkN2NjNmQ2NDRhMzE4MTRmNDU2YjU3MGU4YWEzNTE3OTY0NTFhYzRlYmYyZmM2YWUzNmU3N2VhIiwidGFnIjoiIn0=",
+    "domain": ".kick.com",
+    "path": "/",
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "kick_session",
+    "value": "eyJpdiI6IjljNEk1Q25ueXpDSDB3UEJLWkV4bkE9PSIsInZhbHVlIjoid1NnZHJrWGlIQVBQZ1NrUU5IeTFHME4vZlcxRTlrUHIvUk04ZDZKUllLa0tMQUtSVytQT3NZSnAvbnA0QXJPWjN4UnVwZGR1V2pnQmxTdEtzVWN1T0ZveDNzWnVKT0pXaUVzWGxDK3ljMEZicFF1K2hKaXNLeGh3R2Z5QmZrQTgiLCJtYWMiOiJlYzQwYWE3YWNmNGQ1ZmU3NjRjOTM4NWZiYTBjNzgzYTliOGI2MzJkOTkzNGRjNjk5MTcyODY4ZDlhNzAzYTlmIiwidGFnIjoiIn0=",
+    "domain": ".kick.com",
+    "path": "/",
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "session_token",
+    "value": "217276925%7CvwhV96kAJoFcqZLmk46Y5T4Op0Ere6Zo6p2TtFoS",
+    "domain": ".kick.com",
+    "path": "/",
+    "httpOnly": false,
+    "secure": true
+  }
+]
